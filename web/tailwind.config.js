@@ -17,7 +17,7 @@ module.exports = {
     },
     extend: {
       height: {
-        calc:  'calc(100vh - 7.5rem)',
+        calc:  'calc(100vh - 7rem)',
       },
       colors: {
         border: "hsl(var(--border))",

@@ -8,7 +8,7 @@ import { Slider } from '../ui/slider'
 
 export function SidebarMenu() {
   return (
-    <aside className="w-80 space-y-6">
+    <aside className="w-80 max-md:w-64 space-y-6 h-screen">
       <form className="space-y-6">
         <label
           htmlFor="video"
