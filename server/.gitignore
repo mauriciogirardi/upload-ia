@@ -1,3 +1,4 @@
 node_modules
 .env
 example.mp3
+tmp
