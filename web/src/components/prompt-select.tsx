@@ -48,7 +48,7 @@ export function PromptSelect({ onPromptSelected }: Props) {
           ))}
           <SelectItem disabled value="">
               Criar novo (em breve)
-            </SelectItem>
+          </SelectItem>
         </SelectContent>
       </Select>
     </div>
